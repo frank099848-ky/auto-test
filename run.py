@@ -19,7 +19,7 @@ if __name__ == "__main__":
     # 3. 生成Allure报告（先判断allure是否安装，避免报错）
     # allure_results = f"{REPORT_DIR}/allure-results"
     # allure_report = f"{REPORT_DIR}/allure-report"
-    #
+
     # try:
     #     # 生成报告命令（--clean清空旧报告）
     #     subprocess.run(
