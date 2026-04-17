@@ -3,7 +3,7 @@ from core.api_client import api
 def test_api_demo_01():
     data = {
         "username": "17638063821",
-        "password": "Meiyoumima",
+        "password": "Meiyoumima.",
         "type": 0
     }
 
