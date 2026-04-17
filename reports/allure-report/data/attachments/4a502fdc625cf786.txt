@@ -1,0 +1,8 @@
+INFO     auto_test:base_page.py:46 [打开登录页] 跳转URL：https://user.360lj.com/
+INFO     auto_test:base_page.py:34 [] 等待元素可见：#account
+INFO     auto_test:base_page.py:22 [] 输入文本：19939906086 到元素：#account
+INFO     auto_test:base_page.py:34 [] 等待元素可见：#password
+INFO     auto_test:base_page.py:22 [] 输入文本：111111111 到元素：#password
+INFO     auto_test:base_page.py:34 [] 等待元素可见：.log-btn
+INFO     auto_test:base_page.py:28 [] 点击元素：.log-btn
+INFO     auto_test:base_page.py:34 [] 等待元素可见：.x-pass

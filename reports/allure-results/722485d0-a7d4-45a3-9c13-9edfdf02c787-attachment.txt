@@ -1,0 +1,3 @@
+2026-04-16 10:32:16,153 - INFO - 请求地址：https://user.360lj.com/ajax/Newlogin?r=0.5819574925456303
+2026-04-16 10:32:16,153 - INFO - 请求参数：{'json': {'username': '17638063821', 'password': 'Meiyoumima', 'type': 0}}
+2026-04-16 10:32:16,600 - INFO - 响应结果：[{'status':'1','info':'用户名或密码错误'}]

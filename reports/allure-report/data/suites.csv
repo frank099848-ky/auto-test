@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"冒烟测试","0","test_smoke_demo","test_cases.function","2026-04-16","passed","2026-04-16","","test_function","",""
+"登录成功","4911","test_login_success","test_cases.ui","2026-04-16","passed","2026-04-16","","test_ui","",""
+"","446","test_api_demo_01","test_cases.api","2026-04-16","passed","2026-04-16","","test_demo","",""
+"","79","test_api_demo_02","test_cases.api","2026-04-16","passed","2026-04-16","","test_demo","",""
+"登录失败","3876","test_login_fail","test_cases.ui","2026-04-16","passed","2026-04-16","","test_ui","",""
